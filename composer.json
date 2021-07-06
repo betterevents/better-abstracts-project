@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "betterevents/better_abstracts": "^v1.0.6-alpha",
+        "betterevents/better_abstracts": "^v1.0.7-alpha",
         "composer/installers": "^1.9",
         "drupal/core-composer-scaffold": "^9.1",
         "drupal/core-project-message": "^9.1",
