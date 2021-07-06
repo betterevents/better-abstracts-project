@@ -12,4 +12,9 @@ This will create a functioning Better Abstracts site and install all the project
 3. [Run the installer](https://www.drupal.org/docs/installing-drupal/step-5-run-the-installer) like you would with any other Drupal site.
 
 # Usage
-Read our [documentation](https://drive.google.com/) on how to use Better Abstracts.
+You are yet ready to:
+
+1. Populate Better Abstracts with sample content
+2. Learn how to configure and use it.
+
+Read more in our [documentation](https://drive.google.com/).
