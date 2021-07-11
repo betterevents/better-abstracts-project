@@ -17,4 +17,4 @@ You are all set to put it into action! Next steps:
 1. Populate Better Abstracts with sample content
 2. Learn how to configure and use it.
 
-Read more in our [documentation](https://docs.google.com/document/d/13CNN5PFDv54cfhCdnZT_F6epfnNxXIVkyMyhF_qeTAQ/edit?usp=sharing).
+Get started with our [quick start guide](https://docs.google.com/document/d/1OolrXm3ynUR_kwSOrBM8Yevh1eYSVD0uJ-wAONpOn8c/edit?usp=sharing) or read our [full documentation](https://docs.google.com/document/d/13CNN5PFDv54cfhCdnZT_F6epfnNxXIVkyMyhF_qeTAQ/edit?usp=sharing).
