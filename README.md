@@ -3,18 +3,18 @@ This is a Composer-based installer for the [Better Abstracts](https://www.drupal
 
 # Installation
 ```
-composer create-project betterevents/better-abstracts-project --stability dev my-abstracts
+composer create-project betterevents/better-abstracts-project --stability dev MYPROJECT
 ```
 This will create a functioning Better Abstracts site and install all the project's dependencies. Continue with the installation like you would with any other Drupal site.
 1. Create a database per [Drupal's documentation](https://www.drupal.org/docs/installing-drupal/step-3-create-a-database).
-2. Open a web browser and visit http://localhost/my-abstracts.
+2. Open a web browser and visit http://localhost/MYPROJECT.
 3. [Run the installer](https://www.drupal.org/docs/installing-drupal/step-5-run-the-installer).
 
 
 ## Docker Container
 Request the project without installing depedencies
 ```
-composer create-project betterevents/better-abstracts-project --stability dev --no-install my-abstracts
+composer create-project betterevents/better-abstracts-project --stability dev --no-install MYPROJECT
 ```
 
 Start the container: 
