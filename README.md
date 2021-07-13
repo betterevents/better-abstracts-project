@@ -30,8 +30,14 @@ Then Require depedencies:
 docker-compose exec web composer install` 
 ```
 
-Open a web browser and visit http://localhost:8080/web
-
+Open a web browser and visit http://localhost:8080/web and follow the installation wizard using:
+```
+database 
+- name: drupal
+- username: root
+- password: <empty>
+- host: mysql
+```
 
 # Usage
 You are all set to put it into action! Next steps:
