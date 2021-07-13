@@ -29,7 +29,7 @@ docker-compose up -d
 
 Then Require depedencies:
 ```
-docker-compose exec web composer install` 
+docker-compose exec web composer install
 ```
 
 Open a web browser and visit http://localhost:8080/web and follow the installation wizard using:
