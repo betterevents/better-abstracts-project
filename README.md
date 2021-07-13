@@ -18,7 +18,9 @@ composer create-project betterevents/better-abstracts-project --stability dev --
 ```
 
 Start the container: 
-`docker-compose up`
+```
+docker-compose up
+```
 
 It's advised to not daemonize docker-compose so you can turn it off (CTRL+C) quickly when you're done working. However, if you'd like to daemonize it, you have to add the flag -d:
 ```
